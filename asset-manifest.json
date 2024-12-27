@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/my-react-app/static/css/main.b7b7dbe9.css",
-    "main.js": "/my-react-app/static/js/main.e92bad0c.js",
-    "static/js/488.290a5234.chunk.js": "/my-react-app/static/js/488.290a5234.chunk.js",
-    "static/media/AICloneComponent.gif": "/my-react-app/static/media/AICloneComponent.6927e950e3195e3b00fb.gif",
-    "static/media/Unlock.png": "/my-react-app/static/media/Unlock.60e569b1334f2acd9c48.png",
-    "static/media/Join.png": "/my-react-app/static/media/Join.1a88e79cc09d77b0c7ee.png",
-    "static/media/Explore.png": "/my-react-app/static/media/Explore.68b170058e185ecde5ec.png",
-    "static/media/Personalized.png": "/my-react-app/static/media/Personalized.1de44068a24c023936fc.png",
-    "static/media/Employment.png": "/my-react-app/static/media/Employment.0459d21634b037205b9d.png",
-    "static/media/UpComing.png": "/my-react-app/static/media/UpComing.debacba2053afbad11ab.png",
-    "static/media/AIBot.png": "/my-react-app/static/media/AIBot.4f324f2f64100be3eadc.png",
-    "index.html": "/my-react-app/index.html",
-    "main.b7b7dbe9.css.map": "/my-react-app/static/css/main.b7b7dbe9.css.map",
-    "main.e92bad0c.js.map": "/my-react-app/static/js/main.e92bad0c.js.map",
-    "488.290a5234.chunk.js.map": "/my-react-app/static/js/488.290a5234.chunk.js.map"
+    "main.css": "/Cambloo/static/css/main.b7b7dbe9.css",
+    "main.js": "/Cambloo/static/js/main.cf880ede.js",
+    "static/js/488.290a5234.chunk.js": "/Cambloo/static/js/488.290a5234.chunk.js",
+    "static/media/AICloneComponent.gif": "/Cambloo/static/media/AICloneComponent.6927e950e3195e3b00fb.gif",
+    "static/media/Unlock.png": "/Cambloo/static/media/Unlock.60e569b1334f2acd9c48.png",
+    "static/media/Join.png": "/Cambloo/static/media/Join.1a88e79cc09d77b0c7ee.png",
+    "static/media/Explore.png": "/Cambloo/static/media/Explore.68b170058e185ecde5ec.png",
+    "static/media/Personalized.png": "/Cambloo/static/media/Personalized.1de44068a24c023936fc.png",
+    "static/media/Employment.png": "/Cambloo/static/media/Employment.0459d21634b037205b9d.png",
+    "static/media/UpComing.png": "/Cambloo/static/media/UpComing.debacba2053afbad11ab.png",
+    "static/media/AIBot.png": "/Cambloo/static/media/AIBot.4f324f2f64100be3eadc.png",
+    "index.html": "/Cambloo/index.html",
+    "main.b7b7dbe9.css.map": "/Cambloo/static/css/main.b7b7dbe9.css.map",
+    "main.cf880ede.js.map": "/Cambloo/static/js/main.cf880ede.js.map",
+    "488.290a5234.chunk.js.map": "/Cambloo/static/js/488.290a5234.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7b7dbe9.css",
-    "static/js/main.e92bad0c.js"
+    "static/js/main.cf880ede.js"
   ]
 }
