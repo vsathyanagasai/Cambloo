@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Cambloo/static/css/main.b7b7dbe9.css",
-    "main.js": "/Cambloo/static/js/main.cf880ede.js",
+    "main.js": "/Cambloo/static/js/main.b6003005.js",
     "static/js/488.290a5234.chunk.js": "/Cambloo/static/js/488.290a5234.chunk.js",
     "static/media/AICloneComponent.gif": "/Cambloo/static/media/AICloneComponent.6927e950e3195e3b00fb.gif",
     "static/media/Unlock.png": "/Cambloo/static/media/Unlock.60e569b1334f2acd9c48.png",
@@ -13,11 +13,11 @@
     "static/media/AIBot.png": "/Cambloo/static/media/AIBot.4f324f2f64100be3eadc.png",
     "index.html": "/Cambloo/index.html",
     "main.b7b7dbe9.css.map": "/Cambloo/static/css/main.b7b7dbe9.css.map",
-    "main.cf880ede.js.map": "/Cambloo/static/js/main.cf880ede.js.map",
+    "main.b6003005.js.map": "/Cambloo/static/js/main.b6003005.js.map",
     "488.290a5234.chunk.js.map": "/Cambloo/static/js/488.290a5234.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b7b7dbe9.css",
-    "static/js/main.cf880ede.js"
+    "static/js/main.b6003005.js"
   ]
 }
